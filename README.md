@@ -1,2 +1,14 @@
 # analise-criminalidade-upp-rj
-Análise de dados com Python e Power BI utilizando dados públicos de segurança do RJ. Inclui tratamento com Pandas, análise temporal e dashboard interativo com ranking de UPPs.
+Projeto de análise de dados utilizando informações públicas do Instituto de Segurança Pública do Rio de Janeiro.
+
+Realizei o tratamento dos dados em Python (Pandas), análise temporal dos indicadores criminais e construção de um dashboard interativo no Power BI.
+
+O painel permite visualizar a evolução das ocorrências ao longo dos anos, filtrar por região (UPP) e identificar as áreas com maior concentração de roubos.
+
+Principais atividades:
+• limpeza e preparação dos dados
+• criação de séries temporais
+• análise exploratória
+• desenvolvimento de dashboard interativo
+
+Tecnologias: Python, Pandas, Matplotlib e Power BI.
